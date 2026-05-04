@@ -12,6 +12,8 @@ A Slatewave `.theme` for [btop](https://github.com/aristocratos/btop) — the re
 
 > _Slate below, teal above._
 
+<img src="docs/preview.jpg" alt="Slatewave for btop — CPU, memory, network, and process panels with teal-300 labels, slate-600 box outlines, and the teal → amber → rose gradient across every meter and graph" width="100%">
+
 </div>
 
 ---
